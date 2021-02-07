@@ -1,0 +1,22 @@
+.ListCards-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ListCards-cards-container{
+    margin: 200px 0;
+    transform: translateX(-100px);
+}
+
+.ListCards-button{
+    transform: translate(-20px, 385px) scale(1.3);
+    background-color: brown;
+    color: white;
+    border-radius: 5px;
+    outline: transparent;
+    border: 1px solid rgb(83, 23, 23);
+}
+.ListCards-button:hover{
+    background-color: rgb(83, 23, 23);
+}

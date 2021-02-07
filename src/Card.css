@@ -1,0 +1,18 @@
+.Card-body{
+    position: absolute;
+}
+
+.Card-cards{
+    border-radius: 15px;
+    background-color: black;
+    border: 10px solid brown;
+    border-inline: 5px solid black;
+
+}
+.Card-holder{
+    border-radius: 15px;
+    background-color: black;
+    border: 45px solid brown;
+    border-inline: 10px solid black;
+    
+}
